@@ -148,22 +148,7 @@ Service quality strongly influences revenue performance.
 **Recommendation:**  
 Introduce exclusive website discounts and loyalty incentives.
 
----
-
-## 📂 Project Structure  
-Hospitality-Revenue-Insights-for-Atliq-Grands/
-│
-├── Dataset/
-│ ├── dim_hotels.csv
-│ ├── dim_rooms.csv
-│ ├── dim_date.csv
-│ ├── fact_bookings.csv
-│ └── fact_aggregated_capacity.csv
-│
-├── Atliq_Grands_Dashboard.pbix
-├── Metrics_List.xlsx
-└── README.md
-
+ 
 
 ---
 
