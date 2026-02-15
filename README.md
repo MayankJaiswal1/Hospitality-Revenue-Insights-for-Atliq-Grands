@@ -1,6 +1,14 @@
 # Hospitality-Revenue-Insights-for-Atliq-Grands
 
 # 🏨 Atliq Grands Revenue Intelligence    
+<!-- Data Visualization & BI Tools -->
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+
 ---
 
 ## 🚀 Project Summary  
